@@ -1,7 +1,8 @@
 #include <iostream>
+#include <cstdlib>
 int main()
 {
     std::cout<<"hello world \n";
-    return 0;
+    return EXIT_SUCCESS;
 
 }
